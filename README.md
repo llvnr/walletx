@@ -1,4 +1,4 @@
-# Ghostfox - Monnaie virtuelle
+# WalletX - Monnaie virtuelle
 
 Ghostfox est une interface de gestion de monnaie virtuelle réalisée en VueJS3.
 
